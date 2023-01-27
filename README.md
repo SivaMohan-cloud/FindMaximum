@@ -49,18 +49,24 @@ def max_marks(list1):
 ~~~
 ## Sample Input and Output:
 i)
+
 ![kk](/Screenshot%20(19).png)
 ii)
+
 ![kkl](/Screenshot%20(20).png)
-iii)
+iii)                          
+
 ![lkj](/Screenshot%20(21).png)
 
 ## Output:
 i)
+
 ![ui](/list%20method%20sort.png)
 ii)
+
 ![gh](/list%20method%20sort.png)
 iii)
+
 ![kl](/list%20method%20sort.png)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
