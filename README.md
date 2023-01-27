@@ -51,9 +51,11 @@ def max_marks(list1):
 i)
 
 ![kk](/Screenshot%20(19).png)
+
 ii)
 
 ![kkl](/Screenshot%20(20).png)
+
 iii)                          
 
 ![lkj](/Screenshot%20(21).png)
@@ -62,9 +64,11 @@ iii)
 i)
 
 ![ui](/list%20method%20sort.png)
+
 ii)
 
 ![gh](/list%20method%20sort.png)
+
 iii)
 
 ![kl](/list%20method%20sort.png)
